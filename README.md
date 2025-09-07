@@ -22,6 +22,9 @@ This configuration **replaces everything** inside your `.config/hypr/` folder.
 ## 🛠️ How to Apply
 
 ### 1. Open your Hyprland config directory  
-### 2. Paste and replace / overwrite all files  
 ```bash
 cd ~/.config/hypr
+```
+### 2. Paste and replace / overwrite all files  
+```bash
+cp ~/path/to/hypr  ~/.config/hyper
