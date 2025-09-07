@@ -27,4 +27,4 @@ cd ~/.config/hypr
 ```
 ### 2. Paste and replace / overwrite all files  
 ```bash
-cp ~/path/to/hypr  ~/.config/hyper
+cp ~/path/to/hypr/hyperland  ~/.config/hypr/hyperland
